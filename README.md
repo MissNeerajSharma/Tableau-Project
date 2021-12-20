@@ -30,3 +30,5 @@
 
 ### Territories
 * Has RegionID
+
+![Alt text](https://github.com/MissNeerajSharma/Tableau-Project/blob/main/amazon.jpg)
